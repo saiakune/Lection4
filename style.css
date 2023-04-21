@@ -1,0 +1,34 @@
+/* style for h1*/
+.header {
+    color: green;
+    font-size: 32px;
+}
+/* style for div*/
+#block {
+    color: grey;
+    font-size: 22px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: orange;
+    border-width: 2px;
+}
+/* style for p*/
+.paragraph {
+    color: blue;
+}
+/* style for li*/
+.list {
+    color: violet;
+    font-size: 26px;
+}
+/* style for span*/
+.html {
+    color: crimson;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: pink;
+}
+/* style for a*/
+.phone {
+    color: red;
+}
